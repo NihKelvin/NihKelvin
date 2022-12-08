@@ -31,7 +31,7 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge:
-![Algoritmos](https://img.shields.io/badge/-algoritmos-0D1117?style=for-the-badge&logo=algoritmos&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Visualg](https://img.shields.io/badge/-visualg-0D1117?style=for-the-badge&logo=visualg&logoColor=1572B6&labelColor=0D1117)&nbsp;
 <!--![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;-->
 <!--![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;-->
 <!--![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;-->
